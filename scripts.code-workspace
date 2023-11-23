@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"helsmy.autohotkey-debug",
+			"mark-wiemer.vscode-autohotkey-plus-plus",
+			"editorconfig.editorconfig",
+			"bierner.markdown-preview-github-styles",
+			"davidanson.vscode-markdownlint",
+			"ms-vscode.powershell",
+			"bmalehorn.shell-syntax"
+		]
+	}
+}
